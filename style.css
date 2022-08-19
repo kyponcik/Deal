@@ -1172,6 +1172,7 @@ body {
       padding: 25px 0;
       transform: translateY(-260px);
       transition: transform 1s;
+      opacity: 0;
    }
 
    .header__menu__item-link + .header__menu__item-link {
@@ -1231,6 +1232,7 @@ body {
    
    .active + .header__menu-list{
       transform: translateY(0);
+      opacity: 1;
    }
 
    .header__line{
