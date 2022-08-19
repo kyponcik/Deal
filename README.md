@@ -1,1 +1,1 @@
-Deal link https://deal-reulm4jtn-kyponcik.vercel.app
+Deal link deal-kyponcik.vercel.app
